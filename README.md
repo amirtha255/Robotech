@@ -3,7 +3,7 @@
 ## Motivation:
   It could be very hazardous for us humans to handle trash material. It is very expensive to have humans clear litter in the streets, because of increasing wages for humans, and also the usage of human resources for a task that could have been handled by a robot. The human’s time is much better off contributing to the economy using his/her creativity and something which cannot be achieved using AI.
 
-## What it does:
+## Description:
   The robot needs to be able to clearly visually distinguish whether material is trash or not, and then get the exact dimensions of the material to determine the best grasping position. Trash can come in highly varying shapes, sizes, and colors, and hence detecting the presence of a rubbish object is not a trivial task. Also, since cleaning up is a highly repetitive task, there is huge scope for automation. It also could be grueling in terms of physical effort needed, so it could be done much better by a robot. The robot scans each object in its environment indicates its confidence level that the object detected is a piece of garbage, and that inference is visually depicted using different colored LED lights
 
 ## Implementation: 
@@ -19,3 +19,4 @@ Here, we use Mask R-CNN to perform instance segmentation to analyze the image ob
 2. https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
 3. Zhang, J., Li, M., Feng, Y., & Yang, C. (2020). Robotic grasp detection based on image processing and random forest. Multimedia Tools and Applications, 79(3), 2427-2446.
 4. https://learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/
+5. Majchrowska, S., Mikołajczyk, A., Ferlin, M., Klawikowska, Z., Plantykow, M. A., Kwasigroch, A., & Majek, K. (2022). Deep learning-based waste detection in natural and urban environments. Waste Management, 138, 274-284.
