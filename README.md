@@ -1,6 +1,6 @@
 # Robotech
 
-Video - https://www.youtube.com/watch?v=4NkGZdtTPlA
+Video - https://youtu.be/r8FNOTmElFY
 
 ## Motivation:
 One of the biggest impediments to sustainability is trash. As the amount of trash ever grows with rising human consumption, the environment suffers as a result. Pollution, deforestation, and danger to wildlife are just some of the disastrous side effects. Hence there is an urgent need to handle the collection of trash, especially plastic and safely recycle it. 
